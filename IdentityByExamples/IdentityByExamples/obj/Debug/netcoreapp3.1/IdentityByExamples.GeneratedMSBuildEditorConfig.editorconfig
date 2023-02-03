@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = IdentityByExamples
+build_property.ProjectDir = /Users/mac/Projects/authentication&authorization/identity/identity-aspnetcore/IdentityByExamples/IdentityByExamples/
